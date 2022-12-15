@@ -1,4 +1,4 @@
-## Oi eu sou a Roberto Cardoso
+## Oi eu sou a Roberto
 <div align="center">
   <a href="https://github.com/robizac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robizac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
