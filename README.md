@@ -1,3 +1,5 @@
+![1727455207783](https://github.com/user-attachments/assets/d0a41127-8d70-40f9-a87a-e25c2d4b69e2)
+
 ## 👋 Olá! Eu sou o Roberto  
 ### Desenvolvedor Back-End com foco em Java ☕  
 MBA em Arquitetura Java pela FIAP
