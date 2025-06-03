@@ -1,29 +1,58 @@
-## Oi eu sou a Roberto
+## 👋 Olá! Eu sou o Roberto  
+### Desenvolvedor Back-End com foco em Java ☕  
+MBA em Arquitetura Java pela FIAP
+
+💻 Apaixonado por desenvolver soluções robustas e escaláveis em Java, criando sistemas integrados e eficientes para diversas aplicações.
+
+🔍 Sempre aprimorando habilidades em Spring Boot, APIs REST, bancos de dados e microsserviços, com foco em código limpo e performático.
+
+🤝 Aberto a novas oportunidades, colaborações e desafios que permitam evoluir no ecossistema Java!
+
+---
+
 <div align="center">
   <a href="https://github.com/robizac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robizac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robizac&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Beto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Beto-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/robizac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/robizac" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:robizac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robizac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/robizac/robizac/blob/output/github-contribution-grid-snake.svg)
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robizac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robizac&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
+---
+
+### 🛠️ Tecnologias
+
+#### 🚀 Back-End
+<p>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" height="40"/>
+  <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="40"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" height="40"/>
+</p>
+
+#### 🌐 Front-End
+<p>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="HTML5" height="40"/>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS3" height="40"/>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JavaScript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="40"/>
+</p>
+
+---
+
+### 📲 Contato
+
+<p>
+  <a href="https://instagram.com/robizac" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/robizac" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:robizac@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/robizac" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
